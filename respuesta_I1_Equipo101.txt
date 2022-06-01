@@ -2,5 +2,8 @@ Alfredo Gonzalez (Alfa) - Eliana Guarachi Sarzuri (Beta) - Franco Messina (Gamma
 
 A) Alfa: Veo correctamente los datos cargados por BETA y GAMMA en el repositorio.
 b) Alfa: Si, lo ven correctamente. 
-c) Beta: Si, si creo un archivo los demás integrantes lo ven
-d) Beta: Nos comunicamos a través de WhatsApp
+c) Beta: Sí, si creo un archivo los demás integrantes lo ven
+d) Beta: Nos comunicamos de manera informal a través de WhatsApp y de manera formal
+fuimos creando en Project tareas con un orden de prioridad High, Medium, Low. En el cual
+cada uno iba poniendo su tarea en la prioridad que acordabamos. Luego la mostraba en progreso, y por 
+último cuando la finalizaba la llevaba a la columna de tareas finalizadas.
