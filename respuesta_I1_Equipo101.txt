@@ -7,3 +7,5 @@ d) Beta: Nos comunicamos de manera informal a través de WhatsApp y de manera fo
 fuimos creando en Project tareas con un orden de prioridad High, Medium, Low. En el cual
 cada uno iba poniendo su tarea en la prioridad que acordabamos. Luego la mostraba en progreso, y por 
 último cuando la finalizaba la llevaba a la columna de tareas finalizadas.
+e) Gamma: La mejor forma para comunicarnos dentro de github para nuestro grupo fue crear un project e ir asignando nuestras propias tareas.Respetando el orden del TP,es decir, cuando ALFA llevaba su tarea  a la columna "Tareas Finalizadas", BETA tenia que empezar a hacer sus tareas, y cuando BETA finalizaba empezaba GAMMA con sus tareas.De esta forma fue la comuniacion más optima, y eficiente.
+
