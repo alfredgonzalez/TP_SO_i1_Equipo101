@@ -1,0 +1,4 @@
+Alfredo Gonzalez (Alfa) - Eliana Guarachi Sarzuri (Beta) - Franco Messina (Gamma)
+
+A) Alfa: Veo correctamente los datos cargados por BETA y GAMMA en el repositorio.
+b) Alfa: Si, lo ven correctamente. 
