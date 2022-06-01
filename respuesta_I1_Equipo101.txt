@@ -2,3 +2,5 @@ Alfredo Gonzalez (Alfa) - Eliana Guarachi Sarzuri (Beta) - Franco Messina (Gamma
 
 A) Alfa: Veo correctamente los datos cargados por BETA y GAMMA en el repositorio.
 b) Alfa: Si, lo ven correctamente. 
+c) Beta: Si, si creo un archivo los demás integrantes lo ven
+d) Beta: Nos comunicamos a través de WhatsApp
